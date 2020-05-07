@@ -1,4 +1,4 @@
-package lol.gilliard.jsonparse.jsonpath;
+package lol.gilliard.jsonparse.pathqueries;
 
 import com.jayway.jsonpath.JsonPath;
 import lol.gilliard.jsonparse.SourceData;
